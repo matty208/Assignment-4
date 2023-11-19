@@ -1,0 +1,6 @@
+kayak is a palindrome.
+simple is not a palindrome.
+civic is a palindrome.
+level is a palindrome.
+Monmouth is not a palindrome.
+beach is not a palindrome.

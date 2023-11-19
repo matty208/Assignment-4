@@ -1,0 +1,28 @@
+Successfully added book to HashSet: Title: The Lord of the Rings, Type: HARDBACK, Pages: 120, Price: 29.99
+Successfully added book to HashSet: Title: And Then There Were None, Type: SOFTBACK, Pages: 156, Price: 19.99
+Successfully added book to HashSet: Title: The Hobbit, Type: HARDBACK, Pages: 212, Price: 32.5
+Invalid book data or book creation error: Harry Potter and the Goblet of Fire,ELECTRONIC,-9,19.99
+Successfully added book to HashSet: Title: The Da Vinci Code, Type: HARDBACK, Pages: 253, Price: 25.0
+Book was not added to HashSet (duplicate): Title: And Then There Were None, Type: SOFTBACK, Pages: 156, Price: 19.99
+Invalid book data or book creation error: Harry Potter and the Prisoner of Azkaban,HARDBACK,546,-99.00
+Successfully added book to HashSet: Title: Harry Potter and the Half-Blood Prince, Type: ELECTRONIC, Pages: 439, Price: 19.99
+Successfully added book to HashSet: Title: And Then There Were None, Type: HARDBACK, Pages: 156, Price: 39.99
+Book was not added to HashSet (duplicate): Title: Harry Potter and the Half-Blood Prince, Type: ELECTRONIC, Pages: 439, Price: 19.99
+Book was not added to HashSet (duplicate): Title: And Then There Were None, Type: HARDBACK, Pages: 156, Price: 39.99
+Successfully added book to HashSet: Title: The Soloman Curse, Type: HARDBACK, Pages: 829, Price: 23.95
+Invalid book data or book creation error: ,HARDBACK,92,22.99
+Successfully added book to HashSet: Title: American Sniper, Type: HARDBACK, Pages: 320, Price: 16.2
+Successfully added book to HashSet: Title: The Girl on the Train, Type: SOFTBACK, Pages: 391, Price: 23.87
+Title: The Lord of the Rings, Type: HARDBACK, Pages: 120, Price: 29.99
+Title: The Girl on the Train, Type: SOFTBACK, Pages: 391, Price: 23.87
+Title: The Soloman Curse, Type: HARDBACK, Pages: 829, Price: 23.95
+Title: American Sniper, Type: HARDBACK, Pages: 320, Price: 16.2
+Title: And Then There Were None, Type: SOFTBACK, Pages: 156, Price: 19.99
+Title: Harry Potter and the Half-Blood Prince, Type: ELECTRONIC, Pages: 439, Price: 19.99
+Title: The Hobbit, Type: HARDBACK, Pages: 212, Price: 32.5
+Title: The Da Vinci Code, Type: HARDBACK, Pages: 253, Price: 25.0
+Title: And Then There Were None, Type: HARDBACK, Pages: 156, Price: 39.99
+Title: The Solomon Curse, Type: HARDBACK, Pages: 829, Price: 23.95
+Does not exist in bookSet
+Title: The Big Bang Theory, Type: HARDBACK, Pages: 629, Price: 87.0
+Does not exist in bookSet
